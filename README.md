@@ -5,8 +5,8 @@
 <h3 >A passionate frontend developer from Lima, Perú</h3>
 
 
-- 🔭 I’m currently working on my own proyect [SavingPets](saving-pets.com)
-- 🌱 I’m currently learning English - (B1 Level).
+- 🔭 I’m currently working on my own proyects, I will share them soon.
+- 🌱 I’m currently learning English at Lorenzo Walker Technical College.
 - 💬 Ask me about Dart and Flutter I love them a lot.
 
 <h3 align="left">Connect with me:</h3>
@@ -35,9 +35,51 @@
 
 
 
-<h3 align="left">SOME APPS CREATED TO REFORCE KNOWLEDGE AND RESOLVE PERSONALS PROBLEMS:</h3>
+<h2 align="left">SOME APPS CREATED TO REFORCE KNOWLEDGE AND RESOLVE PERSONALS PROBLEMS:</h2>
 
-TimeMoney:
+<h2 align="left">LA CABANITA STORE (3 APPS):</h2>
+<h3 align="left">- LA CABANITA - (WEB-APP):</h3>
+ 
+In this Fast-food web app, customers can see and order food, get offers, discounts, and points per purchases to participate in monthly contests.
+you can test the entire app on the official url: https://lacabanita-store.web.app . 
+
+I built this app using:
+- Provider.
+- Freezed.
+- Firebase (storage, auth, firestore).
+- Image_picker.
+- launchUrl (whatsapp, facebook, maps).
+- very_good_analysis.
+- dartz.
+- flutter_hooks.
+
+https://user-images.githubusercontent.com/80471939/222869808-19b91137-a597-4e6d-92d1-13f3b549df7b.mp4 
+
+<img width="720" alt="lacabanita_web_desktop" src="https://user-images.githubusercontent.com/80471939/222874773-c58a58ac-dea2-49b5-94ea-24ce245f05c9.png">
+
+
+<h3 align="left">- LA CABANITA - (MANAGER-APP):</h3>
+
+In this manager app has the control of all, create-update-delete products, offers, open and close the web app, and update store info when is closed,all customers registered are visibles there, able to pull to roullete and get a winner (see ranking and winners), etc.
+
+I built this app using:
+- Provider.
+- Freezed.
+- Image_picker.
+- Firebase (storage, firestore).
+- very_good_analysis.
+- cached_network_image
+- dartz.
+- flutter_hooks.
+
+https://user-images.githubusercontent.com/80471939/222877320-d9e04d5a-973d-4e62-8bec-e03181e5ee9c.mp4
+
+
+
+<h3 align="left"></h3>
+
+
+<h2 align="left">TIME-MONEY:</h2>
 
 It is an app to calculate how long I have worked and correctly calculate how much money I will receive depending on my hourly salary. 
 I will add some features soon.
