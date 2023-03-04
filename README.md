@@ -25,7 +25,30 @@
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   
+<h3 align="left">Local Data Base:</h3>
 </p>
+<p align="left">
+<a href="https://objectbox.io/crud-flutter-database/" target="_blank"> <img src="https://raw.githubusercontent.com/objectbox/objectbox-dart/main/.github/logo.png" alt="Objectbox" width="100" height="40"/> </a> 
+</p>
+
+
+
+
+
+<h3 align="left">SOME APPS CREATED TO REFORCE KNOWLEDGE AND RESOLVE PERSONALS PROBLEMS:</h3>
+
+TimeMoney:
+
+It is an app to calculate how long I have worked and correctly calculate how much money I will receive depending on my hourly salary. 
+I will add some features soon.
+
+I built this app using:
+- Flutter_Bloc.
+- Freezed.
+- Objectbox.
+- Material 3.
+
+https://user-images.githubusercontent.com/80471939/222861291-6728b069-f92f-4be1-a707-a0ad9c2dda68.mp4
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Criszx17Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Criszx17Dev" /> </p>
