@@ -2,7 +2,8 @@
 
 
 
-<h3 >A cross-platform Flutter developer currently living in Naples, Florida</h3>
+<h3 >A cross-platform Flutter developer +2 years.
+Located in Naples, Florida - United State</h3>
 
 
 - 🔭 I’m currently working on my own proyects, I will share them soon.
