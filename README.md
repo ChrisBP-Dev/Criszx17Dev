@@ -2,7 +2,7 @@
 
 
 
-<h3 >A passionate frontend developer from Lima, Perú</h3>
+<h3 >A cross-platform Flutter developer currently living in Naples, Florida</h3>
 
 
 - 🔭 I’m currently working on my own proyects, I will share them soon.
