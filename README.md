@@ -11,10 +11,19 @@ Located in Naples, Florida - United State</h3>
 - 💬 Ask me about Dart and Flutter I love them a lot.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/christopher-bobadilla-plasencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-bobadilla-plasencia" height="30" width="40" /></a>
-<a href="https://discord.gg/Christopher Bobadilla Plasencia#2295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samaritanodev#4038" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-bobadilla-plasencia)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:criszx17dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Criszx17Dev)
+
+[![criszx17dev-portfolio](https://img.shields.io/badge/-CRISZX17DEV--PORTFOLIO-blue?style=flat&logo=Flutter&logoColor=white&color=00857a&)](https://criszx17dev-portfolio.web.app/)
+
+
+
+
+
+
+
 
 <h2 align="left">✨Skills:</h2>
 
@@ -33,7 +42,7 @@ Located in Naples, Florida - United State</h3>
 </p>
 
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Criszx17Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Criszx17Dev" /> </p>
 
 
 <h2 align="left">SOME APPS CREATED TO REINFORCE KNOWLEDGE AND SOLVE PERSONAL PROBLEMS:</h2>
@@ -94,23 +103,26 @@ I built this app using:
 https://user-images.githubusercontent.com/80471939/222861291-6728b069-f92f-4be1-a707-a0ad9c2dda68.mp4
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Criszx17Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Criszx17Dev" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Criszx17Dev" alt="Criszx17Dev" /></a> </p>
 
 
-<p align="center">&nbsp;
-  <a><img  alt="Criszx17Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Criszx17Dev&show_icons=true&theme=synthwave" width="450" /></a>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Criszx17Dev&" alt="Criszx17Dev" width="450"/></a>
- </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Criszx17Dev&show_icons=true&locale=en&layout=compact" alt="Criszx17Dev" /></p>
 
 
 <div align = "center">
 
 ![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=Criszx17Dev&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-<hr>
 
 </div>
+
+
+<p align="center">
+ 
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Criszx17Dev&" alt="Criszx17Dev" width="450"/>
+ </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Criszx17Dev&show_icons=true&locale=en&layout=compact" alt="Criszx17Dev" /></p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Criszx17Dev" alt="Criszx17Dev" /></a> </p>
+
+
