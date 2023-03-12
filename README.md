@@ -45,7 +45,7 @@ Located in Naples, Florida - United State</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Criszx17Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Criszx17Dev" /> </p>
 
 
-<h2 align="left">SOME APPS CREATED TO REINFORCE KNOWLEDGE AND SOLVE PERSONAL PROBLEMS:</h2>
+<h2 align="left">SOME APPS I HAVE BUILT - FREELANCER:</h2>
 
 <h2 align="left">LA CABANITA STORE (3 APPS):</h2>
 <h3 align="left">- LA CABANITA - (WEB-APP):</h3>
@@ -57,6 +57,7 @@ I built this app using:
 - Provider.
 - Freezed.
 - Firebase (storage, auth, firestore).
+- Go_Router.
 - Image_picker.
 - launchUrl (whatsapp, facebook, maps).
 - very_good_analysis.
@@ -88,6 +89,7 @@ https://user-images.githubusercontent.com/80471939/222877320-d9e04d5a-973d-4e62-
 
 <h3 align="left"></h3>
 
+<h2 align="left">SOME APPS I HAVE BUILT TO REINFORCE KNOWLEDGE AND SOLVE PERSONAL PROBLEMS:</h2>
 
 <h2 align="left">TIME-MONEY:</h2>
 
