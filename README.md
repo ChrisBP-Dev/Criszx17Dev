@@ -13,10 +13,10 @@ Located in Naples, Florida - United State</h3>
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-bobadilla-plasencia)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:criszx17dev@gmail.com)
+[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:criszx17dev@icloud.com)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Criszx17Dev)
 
-[![criszx17dev-portfolio](https://img.shields.io/badge/-CRISZX17DEV--PORTFOLIO-blue?style=flat&logo=Flutter&logoColor=white&color=00857a&)](https://criszx17dev-portfolio.web.app/)
+[![chrisbp.com](https://img.shields.io/badge/-CHRISBP.COM-blue?style=flat&logo=Flutter&logoColor=white&color=00857a&)](https://chrisbp.com/)
 
 
 
